@@ -1,3 +1,4 @@
+![logo](https://github.com/Sagar10042002/Sagar10042002/assets/125241597/7bbe52c6-1647-4f3f-af49-5ae3059c8ecb)
 <h1 align="center">Hi 👋, I'm SAGAR KUMAR OJHA</h1>
 <h3 align="center">"Data scientists and Data Analysts unlock the power of information, turning raw data into actionable insights for a brighter future."</h3>
 
