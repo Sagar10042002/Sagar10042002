@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SAGAR KUMAR OJHA</h1>
-<h3 align="center">"Data scientists and data analysts unlock the power of information, turning raw data into actionable insights for a brighter future."</h3>
+<h3 align="center">"Data scientists and Data Analysts unlock the power of information, turning raw data into actionable insights for a brighter future."</h3>
 
 
 ## 🌐 Connect with Me:
