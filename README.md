@@ -1,7 +1,7 @@
 ![logo](https://github.com/Sagar10042002/Sagar10042002/assets/125241597/7bbe52c6-1647-4f3f-af49-5ae3059c8ecb)
 
-<h1 align="center">Hi 👋, I'm SAGAR KUMAR OJHA</h1>
-<h3 align="center">AI Engineer | ML Engineer | Data Scientist | Cloud ML Developer</h3>
+<h1 align="center">Hi 👋, I'm SAGAR KUMAR OJHA ---SKO---</h1>
+<h3 align="center">AI Engineer , ML Engineer , Data Scientist , Cloud ML Developer</h3>
 <h4 align="center">"Transforming data into intelligent solutions through machine learning, cloud platforms, and continuous innovation."</h4>
 
 ---
@@ -87,7 +87,7 @@
 
 ---
 
-## 🚀 AI & ML Project Ideas:
+## 🚀 AI & ML Project :
 
 1. 🔍 **AI-Powered Resume Parser** – Extract skills, education, and experience using NLP and spaCy/GPT.
 2. 🤖 **Multilingual Chatbot using LLMs** – Built with LangChain, GPT-4, and Pinecone vector memory.
