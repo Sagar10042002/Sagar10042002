@@ -24,12 +24,22 @@
 
 ---
 
-## 🧠 Domain Expertise:
-- **Machine Learning | Deep Learning | NLP | Computer Vision | Image Processing**
-- **Recommendation Engines | Forecasting | Generative AI | Large Language Models**
-- **LLMs**: GPT-3.5, GPT-4, GPT-4o, LLaMA, Gemini, Mistral
-- **Model Optimization**: Quantization, Pruning, Sparsity
-- **Tools**: Prompt Engineering, AgentGPT, LangChain, LlamaIndex
+## 🧠 Domain Expertise (AI | ML | Generative AI)
+
+- **Machine Learning & Deep Learning**: Supervised, Unsupervised, and Reinforcement Learning; Classification, Regression, Clustering; Transfer Learning, Federated Learning, and Active Learning.
+- **Neural Architectures**: CNNs for image data, RNNs/LSTMs for sequence modeling, Transformers for large-scale NLP tasks, GANs for generative modeling, and Autoencoders for anomaly detection and dimensionality reduction.
+- **Natural Language Processing (NLP)**: Named Entity Recognition (NER), Text Summarization, Question Answering, Sentiment Analysis, Language Translation, Contextual Embeddings (BERT, RoBERTa), Text-to-Speech (TTS), and Speech-to-Text.
+- **Computer Vision**: Object Detection (YOLO, SSD), Image Classification, Semantic Segmentation, OCR, Face Recognition, Pose Estimation, Edge Detection, and Real-time Video Analytics.
+- **Generative AI & Foundation Models**: Text generation (GPT-3.5, GPT-4, GPT-4o), Image generation (DALL·E, MidJourney, Stable Diffusion), Code generation (Codex), Video generation (Sora), and Music generation (Jukebox).
+- **Large Language Models (LLMs)**: Hands-on with GPT, Gemini, Mistral, LLaMA, Claude, and custom fine-tuning or prompt engineering for domain-specific LLM-based agents.
+- **Retrieval-Augmented Generation (RAG)**: Integrating LangChain and LlamaIndex with vector databases (e.g., ChromaDB, Pinecone, PGVector) to build domain-aware intelligent agents and question-answering bots.
+- **Model Optimization**: Quantization, Pruning, Knowledge Distillation, ONNX conversion, and model compression for edge deployment and cloud scalability.
+- **Recommendation Systems**: Collaborative Filtering, Matrix Factorization, Hybrid Systems, Content-based Filtering, Session-based Recommenders, and Personalized Ranking Models.
+- **Forecasting & Time Series Analysis**: ARIMA, SARIMA, Prophet, LSTM-based forecasting, multivariate regression, seasonality/trend detection, anomaly detection in time series.
+- **Real-Time AI Applications**: Stream processing with Apache Kafka, FastAPI-based AI APIs, and serverless ML pipelines using Azure Functions and AWS Lambda.
+- **AI Deployment & Monitoring**: CI/CD for ML (MLOps), Model Registry, A/B Testing, Drift Detection, Inference Pipelines, and Performance Monitoring on Azure/AWS.
+- **Toolkits & Frameworks**: TensorFlow, PyTorch, Keras, Scikit-learn, OpenCV, Hugging Face, Transformers, LangChain, LlamaIndex, AgentGPT, Streamlit, Flask, FastAPI.
+
 
 ---
 
