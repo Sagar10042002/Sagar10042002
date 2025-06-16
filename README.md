@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm SAGAR KUMAR OJHA ---SKO---</h1>
 <h3 align="center">AI Engineer , ML Engineer , Data Scientist , Cloud ML Developer</h3>
-<h4 align="center">"Transforming data into intelligent solutions through machine learning, cloud platforms, and continuous innovation."</h4>
+<h4 align="center">""Transforming raw data into intelligent, impactful solutions by harnessing the power of machine learning, cloud infrastructure, and real-time analytics. I specialize in building scalable AI systems, automating decision-making, and delivering data-driven insights that drive business growth. Passionate about continuous learning, I bridge the gap between innovation and real-world application through modern AI tools and collaborative problem-solving."</h4>
 
 ---
 
