@@ -97,7 +97,7 @@
 
 ---
 
-## 🚀 AI & ML Project :
+## 🚀 AI & ML Projects :
 
 1. 🔍 **AI-Powered Resume Parser** – Extract skills, education, and experience using NLP and spaCy/GPT.
 2. 🤖 **Multilingual Chatbot using LLMs** – Built with LangChain, GPT-4, and Pinecone vector memory.
